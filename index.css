@@ -1,0 +1,14 @@
+h1{
+    color: red;/*cor do texto*/
+    background-color:/*cor de fundo*/ black;
+    width: 500px;/*largura*/
+    height: 150px;/*altura*/
+}
+
+.texto-green{
+    color: green;
+    background-color: yellow;
+}
+.texto-azul{
+    color: blue;
+}
